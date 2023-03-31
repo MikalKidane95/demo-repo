@@ -6,7 +6,5 @@ Project description detailed
 
 Updates from Visual studio local
 
-## demo for branch testing
 
-create branches
 
